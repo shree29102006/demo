@@ -1,4 +1,4 @@
 # demo
 first repository 
 <br>
-AUTHOR- Bhavya Gupta
+AUTHOR- Bhavya Gupta (PTI)
